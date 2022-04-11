@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = decauxclement1@gmail.com
+	name = cd
